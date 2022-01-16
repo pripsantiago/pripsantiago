@@ -2,7 +2,8 @@
 
 - 🇧🇷 Eu sou Brasileira
 - 💻 Estou trabalhando com Frontend
-- 🎓 Estou estudando JavaScript
+- 🎓 Graduada em Sistemas de Informação
+- 🔥 Estou aprendendo JavaScript
 
   ##
   
