@@ -2,7 +2,7 @@
 
 - 🇧🇷 Brasileira
 - 💻 Estou trabalhando com Frontend
-- 🎓 JavaScript
+- 🎓 Estou estudando JavaScript
 
   ##
   
