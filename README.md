@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Dev Pri Santiago 👋
 
-- 🇧🇷 Brasileira
+- 🇧🇷 Eu sou Brasileira
 - 💻 Estou trabalhando com Frontend
 - 🎓 Estou estudando JavaScript
 
