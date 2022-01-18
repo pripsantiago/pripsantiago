@@ -17,7 +17,7 @@
 </div>
 
   ##
-  ### Tecnologias que utilizo
+  ### Tenho conhecimento
   <div style="display: inline_block"><br>
   <img align="center" alt="pri-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pri-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,7 +40,7 @@
   </div>
   
    ##
-  ### Tecnologias que pretendo estudar
+  ###  Quero aprender
   <div>
   <img align="center" alt="pri-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="pri-sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
