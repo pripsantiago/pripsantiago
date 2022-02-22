@@ -2,7 +2,6 @@
 
 - 🇧🇷 Eu sou Brasileira
 - 🇧🇷 🇺🇸 Idiomas que falo
-- 🇫🇷 🇪🇸 Idiomas que estou estudando
 - 💻 Estou trabalhando com Frontend
 - 🎓 Graduada em Sistemas de Informação
 - 🔥 Estou aprendendo JavaScript
