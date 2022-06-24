@@ -2,7 +2,7 @@
 
 - 🇧🇷 I'm Brazilian
 - 🇧🇷 🇺🇸 Languagens I can speak
-- 💻 I'm working in a Front-end project
+- 💻 I'm working in a Frontend project
 - 🎓 I have a degree in Information Systems
 - 🔥 I'm currently learning JavaScript
 
