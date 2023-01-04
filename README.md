@@ -1,4 +1,4 @@
-### Olá! Eu sou a Dev Pri Santiago 👋 
+### Olá! Eu sou a Pri Santiago 👋 
 
 - 🇧🇷 I'm Brazilian
 - 🇧🇷 🇺🇸 Languagens I can speak
