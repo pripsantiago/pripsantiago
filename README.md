@@ -1,13 +1,6 @@
-### Hello World! I'm Pri Santiago 👋 
+### Hello World! Sou a Pri Santiago 👋 
 
-- 🇧🇷 I'm Brazilian
-- 🇧🇷 🇺🇸 Languagens I can speak
-- 💻 I'm working in a Frontend project
-- 🎓 I have a degree in Information Systems
-- 🔥 I'm currently learning JavaScript
-
-
-  ##
+-  ##
   
 <div align="center">
   <a href="https://github.com/prisantiagodev">
